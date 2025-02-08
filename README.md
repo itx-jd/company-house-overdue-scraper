@@ -1,6 +1,6 @@
 # 🚀 Company House Overdue Scraper
 
-The **Company House Overdue Scraper** is a **web-based tool** to filter overdue companies registered in [**Companies House UK**](https://www.gov.uk/government/organisations/companies-house) and **export the data into an Excel file**. Perfect for businesses, accountants, and legal professionals to track overdue companies and monitor compliance effortlessly. 
+The **Company House Overdue Scraper** is a **web-based tool** to filter overdue companies registered in [**Companies House UK**](https://find-and-update.company-information.service.gov.uk/) and **export the data into an Excel file**. Perfect for businesses, accountants, and legal professionals to track overdue companies and monitor compliance effortlessly. 
 
 ---
 
