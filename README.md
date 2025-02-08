@@ -1,27 +1,34 @@
 # 🚀 Company House Overdue Scraper
 
-**Company House Overdue Scraper** is a **web-based tool** that allows you to **filter overdue companies** registered in **Companies House UK** and **export the data into an Excel file**. This easy-to-use solution helps businesses, accountants, and legal professionals keep track of overdue companies and monitor compliance, all from a simple web interface. 🏢📈
+The **Company House Overdue Scraper** is a **web-based tool** to filter overdue companies registered in [**Companies House UK**](https://www.gov.uk/government/organisations/companies-house) and **export the data into an Excel file**. Perfect for businesses, accountants, and legal professionals to track overdue companies and monitor compliance effortlessly. 
 
 ---
 
 ### 🌟 Key Features:
-- **Filter Overdue Companies**: Quickly scrape and filter companies with overdue confirmation statements and accounts.
-- **Easy Web Interface**: No need for complex coding. Everything is accessible through a user-friendly web interface.
-- **Downloadable Excel Report**: Once the data is filtered, the tool generates a downloadable Excel file with all the relevant company details. 📊📥
-- **Real-Time Data**: Directly connects to Companies House UK’s API for accurate, up-to-date company information. 🔄
+- **Filter Overdue Companies** based on confirmation statements and accounts.
+- **User-Friendly Interface** with no coding required.
+- **Downloadable Excel Report** with company details.
+- **Real-Time Data** from Companies House UK’s API. 
 
 ---
 
 ### 💡 How It Works:
-1. **Configure the Filters**: Set your filters based on incorporation dates, volume, and other criteria.
-2. **Scrape the Data**: The scraper connects to the Companies House API and pulls the overdue company details.
-3. **Export the Report**: Once the data is fetched, the tool generates an Excel file that you can download and analyze. 📝💼
+1. **Set Filters**: Choose your criteria (incorporation dates, volume).
+2. **Scrape Data**: Fetch overdue company details from Companies House.
+3. **Download Report**: Export the data to an Excel file.
 
----
 
 ### 🖼️ Screenshot:
 
 ![Web Interface Screenshot](https://your-screenshot-link.com)
+
+---
+
+### 🔑 How to Get Your API Key:
+To access the **Companies House API**, you need an API key. You can obtain it by following these simple steps:
+1. Visit the [Companies House Developer Hub](https://developer.company-information.service.gov.uk/overview).
+2. Sign up or log in to your account.
+3. Once logged in, you can generate your API key and start using the API in your projects.
 
 ---
 
