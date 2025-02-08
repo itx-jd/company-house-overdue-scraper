@@ -25,7 +25,7 @@ function encodeApiKey(apiKey) {
 }
 
 // Your API Key
-const apiKey = '147b05b2-1db0-4c76-9dcd-2309091ad3fc';
+const apiKey = 'your-api-key-here';
 const encodedApiKey = encodeApiKey(apiKey);
 
 // Function to check if a company has an overdue confirmation statement and other details
