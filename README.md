@@ -33,7 +33,7 @@ To get started with **Company House Overdue Scraper**, follow these simple steps
 Clone this repository to your local machine using Git:
 
 ```bash
-git clone https://github.com/your-repo-link/company-house-overdue-scraper.git
+git clone https://github.com/itx-jd/company-house-overdue-scraper.git
 ```
 
 ### 2️⃣ Install Dependencies:
